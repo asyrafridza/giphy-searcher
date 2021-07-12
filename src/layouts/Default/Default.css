@@ -1,0 +1,12 @@
+.default-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.main {
+  padding: 2rem 10em;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 83vh;
+}
